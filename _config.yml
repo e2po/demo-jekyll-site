@@ -1,0 +1,4 @@
+title: Sample Jekyll site
+theme: minima
+exclude:
+  - Gemfile
